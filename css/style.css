@@ -1,0 +1,25 @@
+body {
+    background-color: lavender;
+  }
+  #form_reg {
+    max-width: 300px;
+    margin: 0 auto;
+    border: 1px blue solid;
+    padding: 20px;
+    border-radius: 20px;
+  }
+  .form_item {
+    background-color: #31404b;
+    border: wheat solid 1px;
+    color: white;
+    border-radius: 5px;
+    padding: 5px;
+  }
+  .form_btn {
+    background-color: aqua;
+    border-radius: 5px;
+    padding: 5px;
+    border: 2px solid darkblue;
+    margin-top: 5px;
+  }
+  
